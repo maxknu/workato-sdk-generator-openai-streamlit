@@ -1,5 +1,6 @@
-# Workato SDK Connector code generator using gpt-3.5-turbo Chat completion
-This will generate a new Workato SDK Connector code based on user input
+# Workato SDK Connector code generator @gpt-3.5-turbo 
+This will generate a new Workato SDK Connector code based on user input via 
+gpt-3.5-turbo [Chat Completion API](https://platform.openai.com/docs/api-reference/chat/create)
 
 ## Running Locally
 ### Create new python environment (OPTIONAL)
