@@ -21,8 +21,9 @@ source venv/bin/activate
 ```bash
 pip install openai streamlit streamlit_pills
 ```
-
-create a new file under .streamlit/secrets.toml add a new line for your Open AI API Key [OpenAI](https://beta.openai.com/account/api-keys)
+Create a new folder ".streamlit"
+Create a new file "secrets.toml" under ".streamlit" folder
+Add your API key from [OpenAI](https://beta.openai.com/account/api-keys)
 
 ```yaml
 api_secret = "sk-lköaskjhlhhaskjgaskjgadskgdasgkadsgkasd"
