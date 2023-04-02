@@ -1,5 +1,5 @@
-# workato-sdk-generator-openai-v2
-Workato SDK Connector code generator using streamlit and OpenAI 
+# Workato SDK Connector code generator using gpt-3.5-turbo Chat completion
+This will generate a new Workato SDK Connector code based on user input
 
 ## Running Locally
 ### Create new python environment (OPTIONAL)
